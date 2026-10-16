@@ -41,7 +41,7 @@ fn fn_13(x: i32) -> i32 { x + 13 }
 fn fn_14(x: i32) -> i32 { x + 14 }
 
 /// Line 15 of the demo file.
-fn fn_15(x: i32) -> i32 { x + 15 }
+fn fn_15(x: i32) -> i32 { x * 2 + 15 }
 
 /// Line 16 of the demo file.
 fn fn_16(x: i32) -> i32 { x + 16 }
