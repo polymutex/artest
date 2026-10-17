@@ -118,3 +118,7 @@ fn fn_39(x: i32) -> i32 { x + 39 }
 /// Line 40 of the demo file.
 fn fn_40(x: i32) -> i32 { x + 40 }
 
+
+/// A new function added by this PR.
+/// This is a temporal comment referring to the pre-PR state.
+pub fn fn_new(x: i32) -> i32 { x + 1 }
